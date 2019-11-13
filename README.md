@@ -18,4 +18,4 @@ Een build waarbij alles wordt ge-uglified ed doe je via:
 ```
 npm run build
 ```
-
+De resultaten staan in de dist directory.
