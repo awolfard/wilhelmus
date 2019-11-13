@@ -9,7 +9,7 @@
     "react-router-dom": "^5.0.1"
   },
   "scripts": {
-    "build": "webpack --mode development",
+    "build": "webpack --mode production",
     "start:dev": "webpack-dev-server"
   },
   "browserslist": {
